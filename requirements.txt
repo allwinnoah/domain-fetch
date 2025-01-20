@@ -1,0 +1,10 @@
+subprocess
+requests
+json
+xmltodict
+socket
+nmap
+re
+pyfiglet
+datetime
+tabulate
